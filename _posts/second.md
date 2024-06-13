@@ -1,6 +1,6 @@
 ---
 title: Dark and Darker -> FreeToPlay
-date: 2024-06-13 18:21:00 +/-0000
+date: 2024-06-13 18:21:00 +0000
 categories: [GAMING, F2P]
 tags: [DarkAndDarker]     # TAG names should always be lowercase
 ---
